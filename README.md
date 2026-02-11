@@ -167,9 +167,17 @@ Seasonal demand patterns observed
 * Item Type
 * Cross-filtering across all visuals
 
+## 📓 Jupyter Notebook
+
+You can view the full data cleaning and analysis notebook here:
+
+🔗 **[View Notebook](https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/blob/main/retail_sales.ipynb)**
+
+
 ## 📷 Dashboard Interaction
 
-- <a href="https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/blob/main/Retail%20Sales%20Data%20with%20Seasonal%20Trends%20&%20Marketing.pbix">View Retail & Warehouse Sales Analysis Dashboard</a>
+🔗 **[View Raw Retail & Warehouse Sales Analysis Dashboard File](https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/Retail Sales Data with Seasonal Trends & Marketing.pbix)**
+
 
 ## 🔍 Business Recommendations
 
@@ -198,12 +206,12 @@ Use slicers to explore insights
 ## 👤 Author
 
 **Dimple Shah**
-Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
+- Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
 
 
 ## GITHUB -->>>>
 
-- <a href ="https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/tree/main">GITHUB</a>
+🔗 <a href ="https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/tree/main">GITHUB</a>
 
 ## ⭐ Support
 
