@@ -31,7 +31,7 @@ Key operational KPIs
 * **Dashboard Tool** : Power BI
 * **Notebook Cleaning File** : retail_sales.ipynb
 
-- <a href="https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/blob/main/Cleaned Retail and Warehouse Sales.csv">Dataset</a>
+🔗 <a href="https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/blob/main/Cleaned%20Retail%20and%20Warehouse%20Sales.csv">Dataset</a>
 
 
 ### Key Columns Included
@@ -176,7 +176,8 @@ You can view the full data cleaning and analysis notebook here:
 
 ## 📷 Dashboard Interaction
 
-🔗 **[View Raw Retail & Warehouse Sales Analysis Dashboard File](https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/Retail Sales Data with Seasonal Trends & Marketing.pbix)**
+
+🔗 **[View Raw Retail & Warehouse Sales Analysis Dashboard](https://github.com/dimple-shah-au13/Retail-and-Warehouse-Sales-Analysis/blob/main/Retail%20Sales%20Data%20with%20Seasonal%20Trends%20&%20Marketing.pbix)**
 
 
 ## 🔍 Business Recommendations
